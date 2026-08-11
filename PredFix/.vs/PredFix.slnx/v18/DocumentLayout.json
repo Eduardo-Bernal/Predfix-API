@@ -1,0 +1,394 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\53278369831\\Desktop\\Predfix-API\\PredFix\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AECA1492-5E36-D383-AB85-D7AC077BFA04}|PredFix\\PredFix.csproj|c:\\users\\53278369831\\desktop\\predfix-api\\predfix\\predfix\\dtos\\inspecaodto\\lerinspecaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AECA1492-5E36-D383-AB85-D7AC077BFA04}|PredFix\\PredFix.csproj|solutionrelative:predfix\\dtos\\inspecaodto\\lerinspecaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AECA1492-5E36-D383-AB85-D7AC077BFA04}|PredFix\\PredFix.csproj|c:\\users\\53278369831\\desktop\\predfix-api\\predfix\\predfix\\applications\\services\\inspecaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AECA1492-5E36-D383-AB85-D7AC077BFA04}|PredFix\\PredFix.csproj|solutionrelative:predfix\\applications\\services\\inspecaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AECA1492-5E36-D383-AB85-D7AC077BFA04}|PredFix\\PredFix.csproj|c:\\users\\53278369831\\desktop\\predfix-api\\predfix\\predfix\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AECA1492-5E36-D383-AB85-D7AC077BFA04}|PredFix\\PredFix.csproj|solutionrelative:predfix\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AECA1492-5E36-D383-AB85-D7AC077BFA04}|PredFix\\PredFix.csproj|c:\\users\\53278369831\\desktop\\predfix-api\\predfix\\predfix\\applications\\services\\autenticacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AECA1492-5E36-D383-AB85-D7AC077BFA04}|PredFix\\PredFix.csproj|solutionrelative:predfix\\applications\\services\\autenticacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AECA1492-5E36-D383-AB85-D7AC077BFA04}|PredFix\\PredFix.csproj|c:\\users\\53278369831\\desktop\\predfix-api\\predfix\\predfix\\dtos\\autenticacaodto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AECA1492-5E36-D383-AB85-D7AC077BFA04}|PredFix\\PredFix.csproj|solutionrelative:predfix\\dtos\\autenticacaodto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AECA1492-5E36-D383-AB85-D7AC077BFA04}|PredFix\\PredFix.csproj|c:\\users\\53278369831\\desktop\\predfix-api\\predfix\\predfix\\controllers\\autenticacaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AECA1492-5E36-D383-AB85-D7AC077BFA04}|PredFix\\PredFix.csproj|solutionrelative:predfix\\controllers\\autenticacaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AECA1492-5E36-D383-AB85-D7AC077BFA04}|PredFix\\PredFix.csproj|c:\\users\\53278369831\\desktop\\predfix-api\\predfix\\predfix\\dtos\\autenticacaodto\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AECA1492-5E36-D383-AB85-D7AC077BFA04}|PredFix\\PredFix.csproj|solutionrelative:predfix\\dtos\\autenticacaodto\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AECA1492-5E36-D383-AB85-D7AC077BFA04}|PredFix\\PredFix.csproj|c:\\users\\53278369831\\desktop\\predfix-api\\predfix\\predfix\\controllers\\inspecaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AECA1492-5E36-D383-AB85-D7AC077BFA04}|PredFix\\PredFix.csproj|solutionrelative:predfix\\controllers\\inspecaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AECA1492-5E36-D383-AB85-D7AC077BFA04}|PredFix\\PredFix.csproj|c:\\users\\53278369831\\desktop\\predfix-api\\predfix\\predfix\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AECA1492-5E36-D383-AB85-D7AC077BFA04}|PredFix\\PredFix.csproj|solutionrelative:predfix\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AECA1492-5E36-D383-AB85-D7AC077BFA04}|PredFix\\PredFix.csproj|c:\\users\\53278369831\\desktop\\predfix-api\\predfix\\predfix\\applications\\autenticacao\\geradortokenjwt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AECA1492-5E36-D383-AB85-D7AC077BFA04}|PredFix\\PredFix.csproj|solutionrelative:predfix\\applications\\autenticacao\\geradortokenjwt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AECA1492-5E36-D383-AB85-D7AC077BFA04}|PredFix\\PredFix.csproj|c:\\users\\53278369831\\desktop\\predfix-api\\predfix\\predfix\\applications\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AECA1492-5E36-D383-AB85-D7AC077BFA04}|PredFix\\PredFix.csproj|solutionrelative:predfix\\applications\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AECA1492-5E36-D383-AB85-D7AC077BFA04}|PredFix\\PredFix.csproj|c:\\users\\53278369831\\desktop\\predfix-api\\predfix\\predfix\\dtos\\inspecaodto\\criarinspecaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AECA1492-5E36-D383-AB85-D7AC077BFA04}|PredFix\\PredFix.csproj|solutionrelative:predfix\\dtos\\inspecaodto\\criarinspecaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AECA1492-5E36-D383-AB85-D7AC077BFA04}|PredFix\\PredFix.csproj|c:\\users\\53278369831\\desktop\\predfix-api\\predfix\\predfix\\repositories\\inspecaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AECA1492-5E36-D383-AB85-D7AC077BFA04}|PredFix\\PredFix.csproj|solutionrelative:predfix\\repositories\\inspecaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AECA1492-5E36-D383-AB85-D7AC077BFA04}|PredFix\\PredFix.csproj|c:\\users\\53278369831\\desktop\\predfix-api\\predfix\\predfix\\interfaces\\iinspecaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AECA1492-5E36-D383-AB85-D7AC077BFA04}|PredFix\\PredFix.csproj|solutionrelative:predfix\\interfaces\\iinspecaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AECA1492-5E36-D383-AB85-D7AC077BFA04}|PredFix\\PredFix.csproj|c:\\users\\53278369831\\desktop\\predfix-api\\predfix\\predfix\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AECA1492-5E36-D383-AB85-D7AC077BFA04}|PredFix\\PredFix.csproj|solutionrelative:predfix\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AECA1492-5E36-D383-AB85-D7AC077BFA04}|PredFix\\PredFix.csproj|c:\\users\\53278369831\\desktop\\predfix-api\\predfix\\predfix\\dtos\\usuariodto\\lerusuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AECA1492-5E36-D383-AB85-D7AC077BFA04}|PredFix\\PredFix.csproj|solutionrelative:predfix\\dtos\\usuariodto\\lerusuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AECA1492-5E36-D383-AB85-D7AC077BFA04}|PredFix\\PredFix.csproj|c:\\users\\53278369831\\desktop\\predfix-api\\predfix\\predfix\\dtos\\usuariodto\\criarusuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AECA1492-5E36-D383-AB85-D7AC077BFA04}|PredFix\\PredFix.csproj|solutionrelative:predfix\\dtos\\usuariodto\\criarusuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AECA1492-5E36-D383-AB85-D7AC077BFA04}|PredFix\\PredFix.csproj|c:\\users\\53278369831\\desktop\\predfix-api\\predfix\\predfix\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AECA1492-5E36-D383-AB85-D7AC077BFA04}|PredFix\\PredFix.csproj|solutionrelative:predfix\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AECA1492-5E36-D383-AB85-D7AC077BFA04}|PredFix\\PredFix.csproj|c:\\users\\53278369831\\desktop\\predfix-api\\predfix\\predfix\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AECA1492-5E36-D383-AB85-D7AC077BFA04}|PredFix\\PredFix.csproj|solutionrelative:predfix\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AECA1492-5E36-D383-AB85-D7AC077BFA04}|PredFix\\PredFix.csproj|c:\\users\\53278369831\\desktop\\predfix-api\\predfix\\predfix\\contexts\\predifixcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AECA1492-5E36-D383-AB85-D7AC077BFA04}|PredFix\\PredFix.csproj|solutionrelative:predfix\\contexts\\predifixcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AECA1492-5E36-D383-AB85-D7AC077BFA04}|PredFix\\PredFix.csproj|c:\\users\\53278369831\\desktop\\predfix-api\\predfix\\predfix\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AECA1492-5E36-D383-AB85-D7AC077BFA04}|PredFix\\PredFix.csproj|solutionrelative:predfix\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AECA1492-5E36-D383-AB85-D7AC077BFA04}|PredFix\\PredFix.csproj|c:\\users\\53278369831\\desktop\\predfix-api\\predfix\\predfix\\predfix.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AECA1492-5E36-D383-AB85-D7AC077BFA04}|PredFix\\PredFix.csproj|solutionrelative:predfix\\predfix.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AutenticacaoController.cs",
+              "DocumentMoniker": "C:\\Users\\53278369831\\Desktop\\Predfix-API\\PredFix\\PredFix\\Controllers\\AutenticacaoController.cs",
+              "RelativeDocumentMoniker": "PredFix\\Controllers\\AutenticacaoController.cs",
+              "ToolTip": "C:\\Users\\53278369831\\Desktop\\Predfix-API\\PredFix\\PredFix\\Controllers\\AutenticacaoController.cs",
+              "RelativeToolTip": "PredFix\\Controllers\\AutenticacaoController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T13:16:59.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\53278369831\\Desktop\\Predfix-API\\PredFix\\PredFix\\DTOs\\AutenticacaoDto\\LoginDto.cs",
+              "RelativeDocumentMoniker": "PredFix\\DTOs\\AutenticacaoDto\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\53278369831\\Desktop\\Predfix-API\\PredFix\\PredFix\\DTOs\\AutenticacaoDto\\LoginDto.cs",
+              "RelativeToolTip": "PredFix\\DTOs\\AutenticacaoDto\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T13:15:44.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AutenticacaoService.cs",
+              "DocumentMoniker": "C:\\Users\\53278369831\\Desktop\\Predfix-API\\PredFix\\PredFix\\Applications\\Services\\AutenticacaoService.cs",
+              "RelativeDocumentMoniker": "PredFix\\Applications\\Services\\AutenticacaoService.cs",
+              "ToolTip": "C:\\Users\\53278369831\\Desktop\\Predfix-API\\PredFix\\PredFix\\Applications\\Services\\AutenticacaoService.cs",
+              "RelativeToolTip": "PredFix\\Applications\\Services\\AutenticacaoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T13:13:34.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TokenDto.cs",
+              "DocumentMoniker": "C:\\Users\\53278369831\\Desktop\\Predfix-API\\PredFix\\PredFix\\DTOs\\AutenticacaoDto\\TokenDto.cs",
+              "RelativeDocumentMoniker": "PredFix\\DTOs\\AutenticacaoDto\\TokenDto.cs",
+              "ToolTip": "C:\\Users\\53278369831\\Desktop\\Predfix-API\\PredFix\\PredFix\\DTOs\\AutenticacaoDto\\TokenDto.cs",
+              "RelativeToolTip": "PredFix\\DTOs\\AutenticacaoDto\\TokenDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T13:15:52.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\53278369831\\Desktop\\Predfix-API\\PredFix\\PredFix\\Repositories\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "PredFix\\Repositories\\UsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\53278369831\\Desktop\\Predfix-API\\PredFix\\PredFix\\Repositories\\UsuarioRepository.cs",
+              "RelativeToolTip": "PredFix\\Repositories\\UsuarioRepository.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T10:49:58.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InspecaoService.cs",
+              "DocumentMoniker": "C:\\Users\\53278369831\\Desktop\\Predfix-API\\PredFix\\PredFix\\Applications\\Services\\InspecaoService.cs",
+              "RelativeDocumentMoniker": "PredFix\\Applications\\Services\\InspecaoService.cs",
+              "ToolTip": "C:\\Users\\53278369831\\Desktop\\Predfix-API\\PredFix\\PredFix\\Applications\\Services\\InspecaoService.cs",
+              "RelativeToolTip": "PredFix\\Applications\\Services\\InspecaoService.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAowFwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T12:01:19.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LerInspecaoDto.cs",
+              "DocumentMoniker": "C:\\Users\\53278369831\\Desktop\\Predfix-API\\PredFix\\PredFix\\DTOs\\InspecaoDto\\LerInspecaoDto.cs",
+              "RelativeDocumentMoniker": "PredFix\\DTOs\\InspecaoDto\\LerInspecaoDto.cs",
+              "ToolTip": "C:\\Users\\53278369831\\Desktop\\Predfix-API\\PredFix\\PredFix\\DTOs\\InspecaoDto\\LerInspecaoDto.cs",
+              "RelativeToolTip": "PredFix\\DTOs\\InspecaoDto\\LerInspecaoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T11:59:24.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InspecaoController.cs",
+              "DocumentMoniker": "C:\\Users\\53278369831\\Desktop\\Predfix-API\\PredFix\\PredFix\\Controllers\\InspecaoController.cs",
+              "RelativeDocumentMoniker": "PredFix\\Controllers\\InspecaoController.cs",
+              "ToolTip": "C:\\Users\\53278369831\\Desktop\\Predfix-API\\PredFix\\PredFix\\Controllers\\InspecaoController.cs",
+              "RelativeToolTip": "PredFix\\Controllers\\InspecaoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T12:36:40.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\53278369831\\Desktop\\Predfix-API\\PredFix\\PredFix\\appsettings.json",
+              "RelativeDocumentMoniker": "PredFix\\appsettings.json",
+              "ToolTip": "C:\\Users\\53278369831\\Desktop\\Predfix-API\\PredFix\\PredFix\\appsettings.json",
+              "RelativeToolTip": "PredFix\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-11T13:09:45.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GeradorTokenJwt.cs",
+              "DocumentMoniker": "C:\\Users\\53278369831\\Desktop\\Predfix-API\\PredFix\\PredFix\\Applications\\Autenticacao\\GeradorTokenJwt.cs",
+              "RelativeDocumentMoniker": "PredFix\\Applications\\Autenticacao\\GeradorTokenJwt.cs",
+              "ToolTip": "C:\\Users\\53278369831\\Desktop\\Predfix-API\\PredFix\\PredFix\\Applications\\Autenticacao\\GeradorTokenJwt.cs",
+              "RelativeToolTip": "PredFix\\Applications\\Autenticacao\\GeradorTokenJwt.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA3wDMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T13:11:30.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CriarInspecaoDto.cs",
+              "DocumentMoniker": "C:\\Users\\53278369831\\Desktop\\Predfix-API\\PredFix\\PredFix\\DTOs\\InspecaoDto\\CriarInspecaoDto.cs",
+              "RelativeDocumentMoniker": "PredFix\\DTOs\\InspecaoDto\\CriarInspecaoDto.cs",
+              "ToolTip": "C:\\Users\\53278369831\\Desktop\\Predfix-API\\PredFix\\PredFix\\DTOs\\InspecaoDto\\CriarInspecaoDto.cs",
+              "RelativeToolTip": "PredFix\\DTOs\\InspecaoDto\\CriarInspecaoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T11:57:43.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "InspecaoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\53278369831\\Desktop\\Predfix-API\\PredFix\\PredFix\\Repositories\\InspecaoRepository.cs",
+              "RelativeDocumentMoniker": "PredFix\\Repositories\\InspecaoRepository.cs",
+              "ToolTip": "C:\\Users\\53278369831\\Desktop\\Predfix-API\\PredFix\\PredFix\\Repositories\\InspecaoRepository.cs",
+              "RelativeToolTip": "PredFix\\Repositories\\InspecaoRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T11:54:25.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IInspecaoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\53278369831\\Desktop\\Predfix-API\\PredFix\\PredFix\\Interfaces\\IInspecaoRepository.cs",
+              "RelativeDocumentMoniker": "PredFix\\Interfaces\\IInspecaoRepository.cs",
+              "ToolTip": "C:\\Users\\53278369831\\Desktop\\Predfix-API\\PredFix\\PredFix\\Interfaces\\IInspecaoRepository.cs",
+              "RelativeToolTip": "PredFix\\Interfaces\\IInspecaoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T11:52:35.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\53278369831\\Desktop\\Predfix-API\\PredFix\\PredFix\\Applications\\Services\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "PredFix\\Applications\\Services\\UsuarioService.cs",
+              "ToolTip": "C:\\Users\\53278369831\\Desktop\\Predfix-API\\PredFix\\PredFix\\Applications\\Services\\UsuarioService.cs",
+              "RelativeToolTip": "PredFix\\Applications\\Services\\UsuarioService.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAkwFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T11:03:16.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LerUsuarioDto.cs",
+              "DocumentMoniker": "C:\\Users\\53278369831\\Desktop\\Predfix-API\\PredFix\\PredFix\\DTOs\\UsuarioDto\\LerUsuarioDto.cs",
+              "RelativeDocumentMoniker": "PredFix\\DTOs\\UsuarioDto\\LerUsuarioDto.cs",
+              "ToolTip": "C:\\Users\\53278369831\\Desktop\\Predfix-API\\PredFix\\PredFix\\DTOs\\UsuarioDto\\LerUsuarioDto.cs",
+              "RelativeToolTip": "PredFix\\DTOs\\UsuarioDto\\LerUsuarioDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T11:01:02.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IUsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\53278369831\\Desktop\\Predfix-API\\PredFix\\PredFix\\Interfaces\\IUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "PredFix\\Interfaces\\IUsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\53278369831\\Desktop\\Predfix-API\\PredFix\\PredFix\\Interfaces\\IUsuarioRepository.cs",
+              "RelativeToolTip": "PredFix\\Interfaces\\IUsuarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T10:47:54.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CriarUsuarioDto.cs",
+              "DocumentMoniker": "C:\\Users\\53278369831\\Desktop\\Predfix-API\\PredFix\\PredFix\\DTOs\\UsuarioDto\\CriarUsuarioDto.cs",
+              "RelativeDocumentMoniker": "PredFix\\DTOs\\UsuarioDto\\CriarUsuarioDto.cs",
+              "ToolTip": "C:\\Users\\53278369831\\Desktop\\Predfix-API\\PredFix\\PredFix\\DTOs\\UsuarioDto\\CriarUsuarioDto.cs",
+              "RelativeToolTip": "PredFix\\DTOs\\UsuarioDto\\CriarUsuarioDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T10:59:15.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\53278369831\\Desktop\\Predfix-API\\PredFix\\PredFix\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "PredFix\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\53278369831\\Desktop\\Predfix-API\\PredFix\\PredFix\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "PredFix\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwC8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T11:21:01.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\53278369831\\Desktop\\Predfix-API\\PredFix\\PredFix\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "PredFix\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\53278369831\\Desktop\\Predfix-API\\PredFix\\PredFix\\Properties\\launchSettings.json",
+              "RelativeToolTip": "PredFix\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-11T11:40:08.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PredFix",
+              "DocumentMoniker": "C:\\Users\\53278369831\\Desktop\\Predfix-API\\PredFix\\PredFix\\PredFix.csproj",
+              "RelativeDocumentMoniker": "PredFix\\PredFix.csproj",
+              "ToolTip": "C:\\Users\\53278369831\\Desktop\\Predfix-API\\PredFix\\PredFix\\PredFix.csproj",
+              "RelativeToolTip": "PredFix\\PredFix.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-11T11:02:42.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DomainException.cs",
+              "DocumentMoniker": "C:\\Users\\53278369831\\Desktop\\Predfix-API\\PredFix\\PredFix\\Exceptions\\DomainException.cs",
+              "RelativeDocumentMoniker": "PredFix\\Exceptions\\DomainException.cs",
+              "ToolTip": "C:\\Users\\53278369831\\Desktop\\Predfix-API\\PredFix\\PredFix\\Exceptions\\DomainException.cs",
+              "RelativeToolTip": "PredFix\\Exceptions\\DomainException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T11:09:29.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PrediFixContext.cs",
+              "DocumentMoniker": "C:\\Users\\53278369831\\Desktop\\Predfix-API\\PredFix\\PredFix\\Contexts\\PrediFixContext.cs",
+              "RelativeDocumentMoniker": "PredFix\\Contexts\\PrediFixContext.cs",
+              "ToolTip": "C:\\Users\\53278369831\\Desktop\\Predfix-API\\PredFix\\PredFix\\Contexts\\PrediFixContext.cs",
+              "RelativeToolTip": "PredFix\\Contexts\\PrediFixContext.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwBgAAACEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-10T13:44:34.949Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
