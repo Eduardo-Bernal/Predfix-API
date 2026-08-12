@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PredFix")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+97c36e919bb403c1bd02693ec9808fef4fe8d6e6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d8dfbf736bcf17e0490e8a23c83acfc1c37beffe")]
 [assembly: System.Reflection.AssemblyProductAttribute("PredFix")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PredFix")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

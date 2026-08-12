@@ -68,7 +68,7 @@ namespace PredFix.Applications.Services
             return inspecao.Observacao;
         }
 
-        public LerInspecaoDto Adicionar(CriarInspecaoDto inspecaoDto)
+        public LerInspecaoDto Adicionar(CriarInspecaoDto inspecaoDto, int userId)
         {
             if (string.IsNullOrWhiteSpace(inspecaoDto.Equipamento))
             {
@@ -85,7 +85,7 @@ namespace PredFix.Applications.Services
                 Observacao = audioBytes,
                 StatusInspecao = inspecaoDto.StatusInspecao,
                 DataCriacao = DateTime.Now,
-                UsuarioID = inspecaoDto.UsuarioID
+                UsuarioID = userId
             };
 
             _repository.Adicionar(inspecao);

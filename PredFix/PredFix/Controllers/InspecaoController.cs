@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using System.Security.Claims;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using PredFix.Applications.Services;
 using PredFix.DTOs.InspecaoDto;
@@ -16,6 +17,19 @@ namespace PredFix.Controllers
         {
             _service = service;
         }
+
+        private int ObterUsuarioIdLogado()
+        {
+			string? idTexto = User.FindFirstValue(ClaimTypes.NameIdentifier);
+
+			if (string.IsNullOrWhiteSpace(idTexto))
+			{
+				throw new DomainException("Usuário não autenticado");
+			}
+
+			return int.Parse(idTexto);
+		}
+
 
         [HttpGet]
         public ActionResult<List<LerInspecaoDto>> Listar()
@@ -58,7 +72,9 @@ namespace PredFix.Controllers
         {
             try
             {
-                var inspecaoCriada = _service.Adicionar(inspecaoDto);
+                int usuarioId = ObterUsuarioIdLogado();
+
+                var inspecaoCriada = _service.Adicionar(inspecaoDto, usuarioId);
                 return StatusCode(201, inspecaoCriada);
             }
             catch (DomainException ex)
